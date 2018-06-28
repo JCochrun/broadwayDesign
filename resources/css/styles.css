@@ -12,11 +12,11 @@
   text-align: left;
   display: inline-block;
   width: 100%;
+  color: white;
 }
 
 p.footer {
   font-size: 11px;
-  color: white;
 }
 
 a {
